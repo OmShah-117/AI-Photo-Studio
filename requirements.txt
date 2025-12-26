@@ -1,0 +1,6 @@
+streamlit
+rembg
+Pillow
+streamlit-cropper
+numpy
+opencv-python-headless
